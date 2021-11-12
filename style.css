@@ -22,7 +22,7 @@ body {
     color: black;
     cursor: default;
     background-color: #c1c1b8;
-    box-shadow: 0px 0px 4vw;
+    box-shadow: 0px 0px 4vw black;
 }
 
 .trasparente {
