@@ -1,5 +1,5 @@
 body {
-  background-color: #7C09A7;
+  background-color: #1620A2; /*#7C09A7;*/
   overflow: hidden;
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10+ and Edge */
@@ -13,7 +13,7 @@ body {
 
 .risorsa,.trasparente {
     display: inline-block;
-    margin: 8vw;
+    margin: 4vw;
     width: 14vw;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
@@ -21,7 +21,7 @@ body {
     font-weight: 400;
     color: black;
     cursor: default;
-    background-color: white;
+    background-color: #c1c1b8;
     box-shadow: 0px 0px 4vw;
     /*
     border-right: 2px solid white;
@@ -30,7 +30,7 @@ body {
 }
 
 .trasparente {
-    opacity: 0;
+    opacity: 1;
 }
 
 #undici {
